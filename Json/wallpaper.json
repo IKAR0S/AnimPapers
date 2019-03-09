@@ -1,478 +1,915 @@
 {
-	"Collections": [
+"Collections": [
     {
       "name": "Code Geass"
     }
-	],
+  ],
 	"wallpapers": [
 		{
 			"name": "CG-001",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-001.png",
 			"dimensions": "640 x 1136",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-002",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-002.png",
 			"dimensions": "640 x 1136",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-003",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-003.png",
 			"dimensions": "1920 x 1080",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-004",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-004.png",
 			"dimensions": "1125 x 2436",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-005",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-005.png",
 			"dimensions": "640 x 1136",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-006",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-006.png",
 			"dimensions": "1080 x 2340",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-007",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-007.png",
 			"dimensions": "720 x 1280",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-008",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-008.png",
 			"dimensions": "1080 x 1920",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-009",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-009.png",
 			"dimensions": "1200 x 1024",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-010",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-010.png",
 			"dimensions": "1440 x 2560",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-011",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-011.png",
 			"dimensions": "1080 x 1920",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-012",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-012.png",
 			"dimensions": "640 x 1136",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-013",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-013.png",
 			"dimensions": "750 x 1334",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-014",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-014.png",
 			"dimensions": "720 x 1440",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-015",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-015.png",
 			"dimensions": "1080 x 1920",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-016",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-016.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-017",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-017.png",
 			"dimensions": "1600 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-018",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-018.png",
 			"dimensions": "1728 x 1080",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-019",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-019.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-020",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-020.png",
 			"dimensions": "1920 x 1261",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-021",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-021.png",
 			"dimensions": "1280 x 1024",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-022",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-022.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-023",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-023.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-024",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-024.png",
 			"dimensions": "1600 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-025",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-025.png",
 			"dimensions": "1920 x 1338",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-026",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-026.png",
 			"dimensions": "1920 x 1267",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-027",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-027.png",
 			"dimensions": "1680 x 1050",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-028",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-028.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-029",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-029.png",
 			"dimensions": "1600 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-030",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-030.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-031",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-031.png",
 			"dimensions": "1280 x 800",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-032",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-032.png",
 			"dimensions": "1440 x 900",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-033",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-033.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-034",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-034.png",
 			"dimensions": "1280 x 800",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-035",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-035.png",
 			"dimensions": "1440 x 2960",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-036",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-036.png",
 			"dimensions": "1080 x 1920",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-037",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-037.png",
 			"dimensions": "1440 x 2560",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-038",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-038.png",
 			"dimensions": "1080 x 1920",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-039",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-039.png",
 			"dimensions": "1080 x 1920",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-040",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-040.png",
 			"dimensions": "1440 x 2560",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-041",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-041.png",
 			"dimensions": "1440 x 2560",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-042",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-042.png",
 			"dimensions": "1440 x 2560",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-043",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-043.png",
 			"dimensions": "1920 x 1445",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-044",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-044.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-045",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-045.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-046",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-046.png",
 			"dimensions": "1920 x 1440",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-047",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-047.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-048",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-048.png",
 			"dimensions": "1920 x 1536",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-049",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-049.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-050",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-050.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-051",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-051.png",
 			"dimensions": "1280 x 800",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-052",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-052.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-053",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-053.png",
 			"dimensions": "1920 x 1440",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-054",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-054.png",
 			"dimensions": "1920 x 1246",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-055",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-055.png",
 			"dimensions": "1600 x 1024",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-056",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-056.png",
 			"dimensions": "1920 x 1323",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-057",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-057.png",
 			"dimensions": "1920 x 1281",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-058",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-058.png",
 			"dimensions": "1600 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-059",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-059.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-060",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-060.png",
 			"dimensions": "1920 x 1347",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-061",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-061.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-062",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-062.png",
 			"dimensions": "1920 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-063",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-063.png",
 			"dimensions": "1600 x 1200",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-064",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-064.png",
 			"dimensions": "1920 x 1536",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-065",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-065.png",
 			"dimensions": "1920 x 1440",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-066",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-066.png",
 			"dimensions": "1920 x 1080",
-			"category":"Code Geass"
-		},
+			"collections": "Code Geass", "downloadable": true		},
 		{
 			"name": "CG-067",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-067.png",
 			"dimensions": "1920 x 1440",
-			"category":"Code Geass"
-		}
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-068",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-068.jpg",
+			"dimensions": "4024 x 2727",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-069",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-069.jpg",
+			"dimensions": "2091 x 2943",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-070",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-070.jpg",
+			"dimensions": "1600 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-071",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-071.jpg",
+			"dimensions": "1920 x 1285",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-072",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-072.jpg",
+			"dimensions": "1920 x 1440",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-073",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-073.jpg",
+			"dimensions": "1920 x 1440",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-074",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-074.jpg",
+			"dimensions": "1920 x 1536",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-075",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-075.jpg",
+			"dimensions": "1920 x 1373",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-076",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-076.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-077",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-077.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-078",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-078.jpg",
+			"dimensions": "1920 x 1080",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-079",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-079.jpg",
+			"dimensions": "1920 x 1536",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-080",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-080.jpg",
+			"dimensions": "1920 x 1536",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-081",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-081.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-082",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-082.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-083",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-083.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-084",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-084.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-085",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-085.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-086",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-086.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-087",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-087.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-088",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-088.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-089",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-089.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-090",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-090.jpg",
+			"dimensions": "1600 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-091",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-091.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-092",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-092.jpg",
+			"dimensions": "1920 x 1445",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-093",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-093.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-094",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-094.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-095",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-095.jpg",
+			"dimensions": "1680 x 1050",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-096",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-096.jpg",
+			"dimensions": "2560 x 1600",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-097",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-097.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-098",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-098.jpg",
+			"dimensions": "1280 x 1024",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-099",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-099.jpg",
+			"dimensions": "1280 x 1024",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-100",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-100.jpg",
+			"dimensions": "1280 x 1024",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-101",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-101.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-102",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-102.jpg",
+			"dimensions": "1600 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-103",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-103.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-104",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-104.jpg",
+			"dimensions": "2416 x 1882",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-105",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-105.jpg",
+			"dimensions": "1280 x 720",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-106",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-106.jpg",
+			"dimensions": "1600 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-107",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-107.jpg",
+			"dimensions": "1600 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-108",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-108.jpg",
+			"dimensions": "1600 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-109",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-109.jpg",
+			"dimensions": "1600 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-110",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-110.jpg",
+			"dimensions": "1280 x 1024",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-111",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-111.jpg",
+			"dimensions": "1280 x 1024",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-112",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-112.jpg",
+			"dimensions": "1600 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-113",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-113.jpg",
+			"dimensions": "1600 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-114",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-114.jpg",
+			"dimensions": "1280 x 1024",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-115",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-115.jpg",
+			"dimensions": "1600 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-116",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-116.jpg",
+			"dimensions": "1920 x 1235",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-117",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-117.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-118",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-118.jpg",
+			"dimensions": "1920 x 1181",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-119",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-119.jpg",
+			"dimensions": "2560 x 1600",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-120",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-120.jpg",
+			"dimensions": "1920 x 1228",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-121",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-121.jpg",
+			"dimensions": "1920 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-122",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-122.jpg",
+			"dimensions": "1920 x 1199",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-123",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-123.jpg",
+			"dimensions": "1600 x 1200",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-124",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-124.jpg",
+			"dimensions": "1920 x 1192",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-125",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-125.jpg",
+			"dimensions": "1280 x 1024",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-126",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-126.jpg",
+			"dimensions": "1920 x 1287",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-127",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-127.jpg",
+			"dimensions": "1680 x 1260",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-131",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-131.jpg",
+			"dimensions": "1920 x 1288",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-132",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-132.jpg",
+			"dimensions": "1920 x 1287",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-133",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-133.jpg",
+			"dimensions": "1920 x 1422",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-134",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-134.png",
+			"dimensions": "1024 x 1826",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-135",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-135.jpg",
+			"dimensions": "790 x 914",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-136",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-136.jpg",
+			"dimensions": "564 x 1191",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-137",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-137.jpg",
+			"dimensions": "1096 x 1536",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-138",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-138.jpg",
+			"dimensions": "564 x 937",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-139",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-139.jpg",
+			"dimensions": "800 x 1131",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-140",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-140.jpg",
+			"dimensions": "800 x 1131",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-141",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-141.jpg",
+			"dimensions": "700 x 859",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-142",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-142.jpg",
+			"dimensions": "800 x 1131",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-143",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-143.jpg",
+			"dimensions": "572 x 956",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-144",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-144.jpg",
+			"dimensions": "1000 x 1457",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-145",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-145.jpg",
+			"dimensions": "600 x 800",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-146",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-146.jpg",
+			"dimensions": "800 x 1131",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-147",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-147.jpg",
+			"dimensions": "600 x 916",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-148",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-148.jpg",
+			"dimensions": "650 x 933",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-149",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-149.jpg",
+			"dimensions": "700 x 988",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-150",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-150.jpg",
+			"dimensions": "1152 x 2048",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-151",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-151.jpg",
+			"dimensions": "1447 x 2048",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-152",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-152.jpg",
+			"dimensions": "1200 x 1079",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-153",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-153.jpg",
+			"dimensions": "1280 x 1396",
+			"collections": "Code Geass", "downloadable": true		},
+		{
+			"name": "CG-154",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/CG-154.jpg",
+			"dimensions": "1280 x 1139",
+			"collections": "Code Geass", "downloadable": true		}
 	]
 }
