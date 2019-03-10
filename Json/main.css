@@ -1,0 +1,56 @@
+.privacy{
+  padding: 30px 0;
+}
+
+.privacy img {
+  width: 70px;
+  height: 70px;
+  margin: 0 auto
+}
+
+h4
+{
+  color: #525252;
+  margin: 10px 0
+}
+
+p{
+  color: #ffffff;
+  font-weight: 400;
+  margin: 25px 0 5px
+}
+
+span{
+  color: #c3c3c3;
+  display: block
+}
+
+li{
+  color: #c3c3c3;
+}
+
+strong,
+.title{
+  color: #ffffff;
+  display: inline;
+}
+
+.desc-privacy{
+  background-color: #383838;
+  padding: 35px 25px;
+  border-radius: 10px;
+}
+
+@media(max-width: 768px){
+  .privacy h4
+  {
+    font-size: 20px;
+  }
+}
+
+@media(max-width: 575px){
+  .privacy h4
+  {
+    font-size: 17px;
+  }
+}
