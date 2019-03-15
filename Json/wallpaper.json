@@ -1,6 +1,9 @@
 {
 "Collections": [
 	{
+      "name": "Anohana"
+    },
+	{
       "name": "Assassination Classroom"
     },
 	{
@@ -16062,7 +16065,7 @@
 			"name": "TLR-067",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/To%20Love%20Ru/TLR-067.png",
-			"dimensions": "1778 x 1300",
+			"dimensions": "1618 x 2255",
 			"copyright": "Creative Commons",
 			"downloadable": "true",
 			"collections": "To Love Ru"
@@ -16194,13 +16197,337 @@
 			"collections": "To Love Ru"
 		},
 		{
-			"name": "TLR-082",
+			"name": "An-001",
 			"author": "",
-			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/To%20Love%20Ru/TLR-082.png",
-			"dimensions": "1618 x 2255",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-001.png",
+			"dimensions": "1733 x 1356",
 			"copyright": "Creative Commons",
 			"downloadable": "true",
-			"collections": "To Love Ru"
-		}
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-002",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-002.png",
+			"dimensions": "1000 x 1434",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-003",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-003.png",
+			"dimensions": "1920 x 1080",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-004",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-004.png",
+			"dimensions": "1600 x 900",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-005",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-005.png",
+			"dimensions": "1200 x 844",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-006",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-006.png",
+			"dimensions": "720 x 1280",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-007",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-007.png",
+			"dimensions": "720 x 1280",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-008",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-008.png",
+			"dimensions": "768 x 1024",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-009",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-009.png",
+			"dimensions": "480 x 800",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-010",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-010.png",
+			"dimensions": "640 x 960",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-011",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-011.png",
+			"dimensions": "480 x 800",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-012",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-012.png",
+			"dimensions": "480 x 800",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-013",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-013.png",
+			"dimensions": "720 x 1280",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-014",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-014.png",
+			"dimensions": "768 x 1280",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-015",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-015.png",
+			"dimensions": "1440 x 1280",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-016",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-016.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-017",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-017.png",
+			"dimensions": "768 x 1024",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-018",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-018.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-019",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-019.png",
+			"dimensions": "2048 x 1402",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-020",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-020.png",
+			"dimensions": "4000 x 2592",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-021",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-021.png",
+			"dimensions": "720 x 1280",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-022",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-022.png",
+			"dimensions": "3840 x 2160",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-023",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-023.png",
+			"dimensions": "1802 x 1420",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-024",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-024.png",
+			"dimensions": "1905 x 1192",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-025",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-025.png",
+			"dimensions": "1864 x 1457",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-026",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-026.png",
+			"dimensions": "1772 x 1420",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-027",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-027.png",
+			"dimensions": "1905 x 1479",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-028",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-028.png",
+			"dimensions": "8000 x 4000",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-029",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-029.png",
+			"dimensions": "1500 x 938",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-030",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-030.png",
+			"dimensions": "1500 x 938",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-031",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-031.png",
+			"dimensions": "7680 x 3682",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-032",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-032.png",
+			"dimensions": "800 x 1131",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-033",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-033.png",
+			"dimensions": "500 x 736",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-034",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-034.png",
+			"dimensions": "1920 x 1080",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-035",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-035.png",
+			"dimensions": "1638 x 1158",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-036",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-036.png",
+			"dimensions": "3898 x 2412",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		},
+		{
+			"name": "An-037",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Anohana/An-037.png",
+			"dimensions": "900 x 729",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Anohana"
+		
 	]
 }}
