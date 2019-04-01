@@ -171,7 +171,8 @@
 			"dimensions": "640 x 1136",
 			"copyright": "Creative Commons",
 			"downloadable": "true",
-			"collections": "Code Geass"
+			"collections": "Code Geass",
+			"featured": true
 		},
 		{
 			"name": "CG-002",
