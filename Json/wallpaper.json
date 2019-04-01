@@ -189,7 +189,8 @@
 			"dimensions": "1920 x 1080",
 			"copyright": "Creative Commons",
 			"downloadable": "true",
-			"collections": "Code Geass"
+			"collections": "Code Geass",
+			"featured": true
 		},
 		{
 			"name": "CG-004",
