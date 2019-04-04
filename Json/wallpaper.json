@@ -180,15 +180,6 @@
 			"collections": "Hokuto No Ken"
 		},
 		{
-			"name": "HNK-0010",
-			"author": "",
-			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Hokuto%20No%20Ken/HNK-0010.png",
-			"dimensions": "1200 x 1000",
-			"copyright": "Creative Commons",
-			"downloadable": "true",
-			"collections": "Hokuto No Ken"
-		},
-		{
 			"name": "HNK-002",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Hokuto%20No%20Ken/HNK-002.png",
@@ -256,6 +247,15 @@
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Hokuto%20No%20Ken/HNK-009.png",
 			"dimensions": "1200 x 900",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Hokuto No Ken"
+		},
+		{
+			"name": "HNK-0010",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Hokuto%20No%20Ken/HNK-0010.png",
+			"dimensions": "1200 x 1000",
 			"copyright": "Creative Commons",
 			"downloadable": "true",
 			"collections": "Hokuto No Ken"
