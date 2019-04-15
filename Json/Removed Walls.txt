@@ -1,0 +1,9 @@
+		{
+			"name": "FT-102",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-102.png",
+			"dimensions": "1777 x 2000",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Fairy Tail"
+		},
