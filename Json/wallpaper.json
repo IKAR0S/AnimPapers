@@ -207,7 +207,7 @@
 			"dimensions": "1920 x 1336",
 			"copyright": "Creative Commons",
 			"downloadable": "true",
-			"collections": "Fairy Tail"
+			"collections": "Fairy Tail",
 			"featured": true
 		},
 		{
@@ -4654,7 +4654,7 @@
 			"dimensions": "800 x 1130",
 			"copyright": "Creative Commons",
 			"downloadable": "true",
-			"collections": "Code Geass",
+			"collections": "Code Geass"
 		},
 		{
 			"name": "FMA-001",
@@ -14493,9 +14493,6 @@
 			"downloadable": "true",
 			"collections": "Fairy Tail"
 		},
-		
-		
-		
 		{
 			"name": "FT-103",
 			"author": "",
