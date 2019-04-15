@@ -201,13 +201,13 @@
   ],
 	"wallpapers": [
 		{
-			"name": "CG-155",
+			"name": "FT-107",
 			"author": "",
-			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Code%20Geass/CG-155.png",
-			"dimensions": "800 x 1130",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-107.png",
+			"dimensions": "1920 x 1336",
 			"copyright": "Creative Commons",
 			"downloadable": "true",
-			"collections": "Code Geass",
+			"collections": "Fairy Tail"
 			"featured": true
 		},
 		{
@@ -4646,6 +4646,15 @@
 			"copyright": "Creative Commons",
 			"downloadable": "true",
 			"collections": "Code Geass"
+		},
+		{
+			"name": "CG-155",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Code%20Geass/CG-155.png",
+			"dimensions": "800 x 1130",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Code Geass",
 		},
 		{
 			"name": "FMA-001",
@@ -13666,69 +13675,6 @@
 			"collections": "Fairy Tail"
 		},
 		{
-			"name": "FT-0100",
-			"author": "",
-			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-0100.png",
-			"dimensions": "1474 x 1683",
-			"copyright": "Creative Commons",
-			"downloadable": "true",
-			"collections": "Fairy Tail"
-		},
-		{
-			"name": "FT-0101",
-			"author": "",
-			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-0101.png",
-			"dimensions": "1000 x 1779",
-			"copyright": "Creative Commons",
-			"downloadable": "true",
-			"collections": "Fairy Tail"
-		},
-		{
-			"name": "FT-0102",
-			"author": "",
-			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-0102.png",
-			"dimensions": "1777 x 2000",
-			"copyright": "Creative Commons",
-			"downloadable": "true",
-			"collections": "Fairy Tail"
-		},
-		{
-			"name": "FT-0103",
-			"author": "",
-			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-0103.png",
-			"dimensions": "700 x 1017",
-			"copyright": "Creative Commons",
-			"downloadable": "true",
-			"collections": "Fairy Tail"
-		},
-		{
-			"name": "FT-0104",
-			"author": "",
-			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-0104.png",
-			"dimensions": "2000 x 2438",
-			"copyright": "Creative Commons",
-			"downloadable": "true",
-			"collections": "Fairy Tail"
-		},
-		{
-			"name": "FT-0105",
-			"author": "",
-			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-0105.png",
-			"dimensions": "638 x 1000",
-			"copyright": "Creative Commons",
-			"downloadable": "true",
-			"collections": "Fairy Tail"
-		},
-		{
-			"name": "FT-0106",
-			"author": "",
-			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-0106.png",
-			"dimensions": "2000 x 2870",
-			"copyright": "Creative Commons",
-			"downloadable": "true",
-			"collections": "Fairy Tail"
-		},
-		{
 			"name": "FT-011",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-011.png",
@@ -14525,6 +14471,63 @@
 			"author": "",
 			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-099.png",
 			"dimensions": "2000 x 1658",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Fairy Tail"
+		},
+		{
+			"name": "FT-100",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-100.png",
+			"dimensions": "1474 x 1683",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Fairy Tail"
+		},
+		{
+			"name": "FT-101",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-101.png",
+			"dimensions": "1000 x 1779",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Fairy Tail"
+		},
+		
+		
+		
+		{
+			"name": "FT-103",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-103.png",
+			"dimensions": "700 x 1017",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Fairy Tail"
+		},
+		{
+			"name": "FT-104",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-104.png",
+			"dimensions": "2000 x 2438",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Fairy Tail"
+		},
+		{
+			"name": "FT-105",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-105.png",
+			"dimensions": "638 x 1000",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Fairy Tail"
+		},
+		{
+			"name": "FT-106",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Fairy%20Tail/FT-106.png",
+			"dimensions": "2000 x 2870",
 			"copyright": "Creative Commons",
 			"downloadable": "true",
 			"collections": "Fairy Tail"
