@@ -218,12 +218,21 @@
 		{
 			"name": "Wall of the Week",
 			"author": "",
-			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Edens%20Zero/EZ-039.png",
-			"dimensions": "817 x 1162",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Edens%20Zero/EZ-040.png",
+			"dimensions": "1200 x 1080",
 			"copyright": "Creative Commons",
 			"downloadable": "true",
 			"collections": "Edens Zero",
 			"featured": true
+		},
+		{
+			"name": "EZ-039",
+			"author": "",
+			"url": "https://raw.githubusercontent.com/IKAR0S/AnimPapers/master/Wallpapers/Edens%20Zero/EZ-039.png",
+			"dimensions": "817 x 1162",
+			"copyright": "Creative Commons",
+			"downloadable": "true",
+			"collections": "Edens Zero"
 		},
 		{
 			"name": "SW-001",
